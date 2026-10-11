@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Assignment #4 — Forms and Validation
 
 **Name:** Isaali Abdunabi  
@@ -41,3 +42,6 @@ I also added HTML5 validation. The password must have at least 8 characters.
 In this assignment, I learned how to create HTML forms and use Bootstrap classes. I practised HTML5 validation and added feedback messages for form fields.
 
 I completed the project using HTML, CSS and Bootstrap.
+=======
+# Web-Homework-4
+>>>>>>> 12447faff74e06ff555793e2290b38716f9b34fa
