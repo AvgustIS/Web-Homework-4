@@ -42,3 +42,7 @@ I also added HTML5 validation. The password must have at least 8 characters.
 In this assignment, I learned how to create HTML forms and use Bootstrap classes. I practised HTML5 validation and added feedback messages for form fields.
 
 I completed the project using HTML, CSS and Bootstrap.
+<<<<<<< HEAD
+
+
+>>>>>>> 26d589cc7f9574010ba0b532fa4d0bc0cac1af1d
